@@ -21,8 +21,18 @@ namespace LoggingKata.Test
         [Theory]
         [InlineData(null)]
         [InlineData("")]
+        [InlineData("not a number,0.0,Taco Bell Test")]
+        [InlineData("0.0,not a number,Taco Bell Test")]
+        [InlineData("0.0,0.0,0.0, Taco Bell Test")]
+        [InlineData("0.0,0.0")]
         public void ShouldFailParse(string str)
         {
+            // Arrange
+
+            // Act
+
+            // Assert
+
             // TODO: Complete Should Fail Parse
         }
     }
