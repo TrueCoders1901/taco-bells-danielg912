@@ -1,0 +1,85 @@
+[33mcommit 28b6d551fb4abd03affc3da44bdc515763ed6cef[m[33m ([m[1;36mHEAD -> [m[1;32mdansbranch[m[33m)[m
+Author: Daniel Gonzalez <dgonzalez7752@gmail.com>
+Date:   Fri Mar 1 15:06:05 2019 -0600
+
+    Filled in tests
+
+[33mcommit c19074c0babc0e90707c9bac61a165a03e7ed84b[m
+Author: Daniel Gonzalez <dgonzalez7752@gmail.com>
+Date:   Thu Feb 21 14:56:47 2019 -0600
+
+    Implemented Parse method
+
+[33mcommit 56070f84e79a31c7b978d99496152ae42a21c34b[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Chip <chip.elmer@gmail.com>
+Date:   Thu Feb 7 10:10:26 2019 -0600
+
+    Modified parsing line in Program.  Minor edit to code comment.
+
+[33mcommit 33efd3944306e77bec89769462f070aca4d6c3fb[m
+Author: chipelmer <37910370+chipelmer@users.noreply.github.com>
+Date:   Wed Aug 1 11:03:28 2018 -0500
+
+    Update README.md
+    
+    Minor revisions to the readme
+
+[33mcommit 581d8013f9ba54c3e6627b19820b7bfd5c9d8431[m
+Author: Chip <chip.elmer@gmail.com>
+Date:   Tue Jul 31 09:57:20 2018 -0500
+
+    Edits to code comments
+
+[33mcommit 1c291360eed19e402ede4ae773772cae291a6288[m
+Author: Chip <chip.elmer@gmail.com>
+Date:   Tue Jul 31 09:55:29 2018 -0500
+
+    Moved latitude column in csv file to be before longitude
+
+[33mcommit 5bf6a37cbe9ee47410aa27fb42a3e94423bc6b6f[m
+Author: Cody Winton <cody.t.winton@gmail.com>
+Date:   Mon Apr 23 08:53:10 2018 -0500
+
+    Minor csv path updates
+
+[33mcommit 28a34dc35b653c0b28f6ab75e956ff8715157a91[m
+Author: Cody Winton <cody.t.winton@gmail.com>
+Date:   Mon Apr 23 08:48:36 2018 -0500
+
+    Updated README
+
+[33mcommit 60f91c499112fa3beb7cabf330af4087e40b2c79[m
+Author: Cody Winton <cody.t.winton@gmail.com>
+Date:   Mon Apr 23 08:44:46 2018 -0500
+
+    Added .NET Core compatible geo coordinate NuGet package
+
+[33mcommit 931ecd7e2b25bf0f3ca01e406b2e44534f0348ad[m
+Author: Cody Winton <cody.t.winton@gmail.com>
+Date:   Thu Apr 19 12:00:17 2018 -0500
+
+    Renamed UnitTest file
+
+[33mcommit 5fd91047c6db6d1d50cc0815b59d351029c34514[m
+Author: Cody Winton <cody.t.winton@gmail.com>
+Date:   Wed Apr 11 10:14:49 2018 -0500
+
+    Updated README
+
+[33mcommit 26908a249fcfe7ec69d56dce8f22f11cdd2971e0[m
+Author: Cody Winton <cody.t.winton@gmail.com>
+Date:   Wed Apr 11 10:14:12 2018 -0500
+
+    Updated README
+
+[33mcommit c5a2b1da39968becc90a0119950a448185201258[m
+Author: Cody Winton <cody.t.winton@gmail.com>
+Date:   Wed Apr 11 10:03:55 2018 -0500
+
+    Added Project
+
+[33mcommit 2653360833f631d55c4098427c47591f800fea50[m
+Author: Cody Winton <cody@codywinton.com>
+Date:   Wed Apr 11 10:02:42 2018 -0500
+
+    Initial commit
